@@ -1,5 +1,5 @@
 - [x] assets
 - [x] cia
-- [x] incident
-- [x] reflection
-- [x] report
+- [x] threat
+- [x] vulnerability
+- [x] mitigation
