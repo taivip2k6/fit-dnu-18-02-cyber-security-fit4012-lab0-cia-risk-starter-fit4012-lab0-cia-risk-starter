@@ -23,8 +23,7 @@ Ghép từng sự cố với CIA.
 
 - Sự cố A ->
 - Sự cố B ->
-- Sự cố C ->
-
+- Sự cố C ->c
 ---
 
 ## 3. Phân tích sự cố B
