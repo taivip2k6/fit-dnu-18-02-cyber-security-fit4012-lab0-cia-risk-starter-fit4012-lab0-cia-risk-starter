@@ -1,5 +1,5 @@
-- [x] Assets completed
-- [x] CIA mapping completed
-- [x] Incident analysis completed
-- [x] Reflection completed
-- [x] Report completed
+- [x] assets
+- [x] cia
+- [x] incident
+- [x] reflection
+- [x] report
