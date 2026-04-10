@@ -1,7 +1,7 @@
 # Lab 01 Answers
 ## CIA & Risk: Hệ thống lưu điểm
 
-**Họ và tên:* bùi văn tài 
+**Họ và tên:* bÙI văN tàI
 
 **MSSV:** 1871020515
 
